@@ -1,18 +1,16 @@
 {
-  "name": "spookyswap-sdk",
+  "name": "zomb-sdk",
   "license": "MIT",
   "version": "1.2.0",
-  "description": "🛠 An SDK for building applications on top of spookyswap.",
+  "description": "🛠 An SDK for building applications on top of zomb.",
   "main": "dist/index.js",
   "module": "dist/sdk.esm.js",
   "typings": "dist/index.d.ts",
-  "private": true,
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/SpookySwap/SpookySwap-sdk.git",
   "keywords": [
-    "spookyswap",
+    "zomb",
     "ethereum",
     "fantom"
   ],
